@@ -1,0 +1,43 @@
+/* Задание 1 */
+
+.h1_cool {
+    color: white;
+    padding-top: 5px ;
+  }
+  
+  .btn_cool {
+    width: 190px;
+    height: 38px;
+    background-color: blue;
+    color: white;
+    border-color: white;
+    border-width: 1px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    
+  }
+  
+  .btn_cool:hover {
+    cursor: pointer;
+    border-color: blue;
+    border-width: 1px;
+    background-color: black;
+  }
+  
+  .box_cool {
+    margin: 0 auto;
+    text-align:center;
+    background-color: black;
+    width: 300px;
+    height: 120px;
+  }
+  
+  .p_cool {
+    margin: 8px 4px;
+  }
+  
+  .btn_cool_icon {
+    margin: 8px 4px;
+    
+  }
